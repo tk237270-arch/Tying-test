@@ -1,0 +1,6 @@
+{
+  "name": "Type Arcade",
+  "description": "An retro-arcade typing experience with 3 unique modes: Pure Minimalist (Monkeytype style), Competitive Racer (TypeRacer style), and Space Bullet-Hell Defense (ZType style). Learn, complete, and track stats locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
